@@ -1,0 +1,78 @@
+Ingrese su nombre: 
+	taurus
+Ingrese su edad: 
+	29
+Cual es su lenguaje de programacion preferido: 
+	java
+Que lenguaje te gustaria aprender: 
+	python, bash, linux, go
+Que especialidad de la informatica te gustaria seguir: 
+	ciberseguridad
+
+----------------------------------------
+
+Ingrese su nombre: 
+	Cristhian
+Ingrese su edad: 
+	19
+Cual es su lenguaje de programacion preferido: 
+	PhP
+Que lenguaje te gustaria aprender: 
+	Javascript, Python y un poco de java
+Que especialidad de la informatica te gustaria seguir: 
+	Desarrollo backend, y gestor de bdd 
+
+----------------------------------------
+
+Ingrese su nombre: 
+	Marco
+Ingrese su edad: 
+	23
+Cual es su lenguaje de programacion preferido: 
+	Csharp
+Que lenguaje te gustaria aprender: 
+	Java
+Que especialidad de la informatica te gustaria seguir: 
+	Desarrollo de interfaces graficas
+
+----------------------------------------
+
+Ingrese su nombre: 
+	diego
+Ingrese su edad: 
+	26
+Cual es su lenguaje de programacion preferido: 
+	C
+Que lenguaje te gustaria aprender: 
+	Python
+Que especialidad de la informatica te gustaria seguir: 
+	Disenio UX / UI 
+
+----------------------------------------
+
+Ingrese su nombre: 
+	josue
+Ingrese su edad: 
+	34
+Cual es su lenguaje de programacion preferido: 
+	Java
+Que lenguaje te gustaria aprender: 
+	Javascript
+Que especialidad de la informatica te gustaria seguir: 
+	Seguridad de la informacion 
+
+----------------------------------------
+
+Ingrese su nombre: 
+	Alexander
+Ingrese su edad: 
+	28
+Cual es su lenguaje de programacion preferido: 
+	Java y Python
+Que lenguaje te gustaria aprender: 
+	Javascript
+Que especialidad de la informatica te gustaria seguir: 
+	Desarrollo FUllstack
+
+----------------------------------------
+

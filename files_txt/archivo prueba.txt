@@ -1,0 +1,3 @@
+Este archivo es un archivo[.]txt tabulado, y espacios 2da tabulacion
+Es un documento de texto en blanco
+Fecha de cumple dd/mm/aa = 31/03/2002, nombre alexandre pato
