@@ -5,7 +5,7 @@ me parece interesante esto, debo de conocer muchas cosas sobre esto....
 ANIMOOOS...
 """
 
-print(nombre_cadena,descripcion_cadena)
+print(nombre_cadena, descripcion_cadena)
 
 descripcion_len = """A CONTINUACION VAS A VER UNA DE LAS 
 TANTAS FUNCIONES DE PYTHON EN STRINGS, LONGITUD DE LA CADENA...."""
@@ -16,7 +16,7 @@ descripcion_cadena_primeraletra = """\nEsta funcion permite sacar la primera let
 a partir de tomar la variable como una lista, es decir, podemos ingresar a un valor
 por los [] o a su vez [:]"""
 
-print(descripcion_cadena_primeraletra,descripcion_cadena[:5])
+print(descripcion_cadena_primeraletra, descripcion_cadena[:5])
 
 formatear_string = """Es casi similar a la sintaxis de java para concatenar, y en tiene
 caracteristicas similares a las que usabamos para el front en angular utilizando {} o + de concatenacion ---> """
@@ -25,6 +25,10 @@ nombre = "Freddy"
 apellido = "Matailo"
 
 print(formatear_string, f"{nombre[:3]} {apellido}")
+
+print("{} {}".format(apellido.upper(), nombre.upper()))
+print("{name} {lastname}".format(name=nombre, lastname=apellido))
+print("Por posicion 1= {1} , 0= {0}".format(nombre,apellido))
 
 # Tambien se utilizan metodos y funciones como .strip() para eliminar espacios
 # replace() -> que sirve para reemplazar una cadena de caracteres de la secuencia por el nuevo arg..
